@@ -23,7 +23,7 @@ Di dalam aplikasi ini sudah terdapat variable dengan tipe data koleksi yang berb
 
 ## LINK APLIKASI
 
-https://drive.google.com/file/d/14-VoHpTNBbYcvzQMg8wwPx_dmAMijH9i/view?usp=sharing
+https://drive.google.com/file/d/1qGvhVkbtRH1vSDLDKwnym4wKgWrreweF/view?usp=sharing
 
 ## Library
 
